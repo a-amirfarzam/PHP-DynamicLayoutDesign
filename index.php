@@ -10,7 +10,19 @@
 </head>
 
 <body>
+    <header>
+        This is the header Part...
+    </header>
 
+    <section>
+        <div id="main">
+            This is the Index.php file content.
+        </div>
+    </section>
+
+    <footer>
+        This is the footer part...
+    </footer>
 </body>
 
 </html>

@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow: 0;
+}
+
+body {
+    background: #edf3ff;
+}
+
+header {
+    padding: 2rem;
+    background: #0404b8;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+
+section #main {
+    height: 82vh;
+}
+
+footer {
+    background: #000033;
+    color: #aeaed8;
+    padding: 1rem;
+    text-align: center;
+    font-size: 1.3rem;
+    font-style: italic;
+}
