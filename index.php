@@ -2,17 +2,12 @@
 <html lang="en" dir="ltr">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/style.css">
+    <?php include '_head.php'; ?>
     <title>PHP Dynamic Layout Design</title>
 </head>
 
 <body>
-    <header>
-        This is the header Part...
-    </header>
+    <?php include '_header.php'; ?>
 
     <section>
         <div id="main">
@@ -20,9 +15,7 @@
         </div>
     </section>
 
-    <footer>
-        This is the footer part...
-    </footer>
+    <?php include '_footer.php'; ?>
 </body>
 
 </html>
